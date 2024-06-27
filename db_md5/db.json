@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "bookId": "BO - 1234",
+      "name": "Book One",
+      "typeId": 1,
+      "dateAdded": "2024-06-20",
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "bookId": "BO - 1235",
+      "name": "Book One",
+      "typeId": 1,
+      "dateAdded": "2024-06-21",
+      "quantity": 10
+    },
+    {
+      "bookId": "BO-9999",
+      "name": "Autem elit asperior",
+      "dateAdded": "2019-04-17",
+      "typeId": 1,
+      "quantity": 62,
+      "id": 3
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "Fiction",
+      "description": "Fictional books"
+    },
+    {
+      "id": 2,
+      "name": "Romantic Love",
+      "description": "Love books"
+    }
+  ]
+}
